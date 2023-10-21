@@ -1,0 +1,31 @@
+//Create your own resume data in JSON format
+
+
+const resume= {
+    "basics": {
+      "name": "Ajith",
+      "job": "Programmer",
+      "email": "ajithkumar17001@gmail.com",
+      "phone": "9677154647",
+      "location": {
+        "address": "1/2 sakthi puram",
+        "postalCode": "ch-600057",
+        "city": "chennai",
+        "nationality": "Indian"
+      },
+"hobbies": {
+        "sslc": "90%",
+        "hslc": "93%",
+        "b.com": "75%"
+      },
+"education": {
+        "sslc": "90%",
+        "hslc": "93%",
+        "b.com": "75%"
+      },
+  "experience": {
+        "edufic digital": "1 year as elearning developer",
+        "novac tecnology": "1.5 years as elearning developer",
+        }       
+    }   
+  }
